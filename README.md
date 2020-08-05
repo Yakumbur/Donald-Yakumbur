@@ -1,2 +1,1 @@
-# Donald-Yakumbur
-Faithful God 
+Document.write(“Name: Yakumbur, Donald Terseer”);
